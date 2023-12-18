@@ -14,7 +14,7 @@ void searchArea(int bombs[][5], int num1, int num2, int& hit);
 int main(){	
 	char agine;
 
-	cout << "**************************BOMBESWEAPER**********************"<< endl;
+	cout << "**************************BOMBESWEEPER**********************"<< endl;
 	cout << endl << "There are five bombs hidden in a 5x5 mile streach of land." << endl
 		   <<"Enter a pair of numbers in the range of 1-5  to indicate the row and colmn of " 
 		   << endl << "the square mile you think might have a bomb." 

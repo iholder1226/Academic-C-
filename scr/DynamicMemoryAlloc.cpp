@@ -3,7 +3,7 @@
   sorts and prints the list using a pointer array  */
 
 
-//Problem#15 - Dynamic Memeory Allocation
+//Problem#15 - Dynamic Memory Allocation
 //Isaiah Holder
 //ComSc 265, 8105
 //04-15-10
